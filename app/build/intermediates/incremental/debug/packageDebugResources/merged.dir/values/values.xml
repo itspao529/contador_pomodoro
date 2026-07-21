@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_pause">#FF9800</color>
+    <color name="accent_reset">#F44336</color>
+    <color name="bg_bottom">#81C784</color>
+    <color name="bg_screen">#FFFFFF</color>
+    <color name="bg_top">#A5D6A7</color>
+    <color name="btn_purple">#C3B4E0</color>
+    <color name="btn_purple_border">#9B87C4</color>
+    <color name="btn_teal">#80CBC4</color>
+    <color name="btn_teal_border">#004D40</color>
+    <color name="card_bg">#F5F5F5</color>
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="progress_bg">#EBF0E4</color>
+    <color name="progress_green">#A8D9A8</color>
+    <color name="task_active_bg">#D2ECE9</color>
+    <color name="task_default_bg">#FFFFFF</color>
+    <color name="text_dark">#212121</color>
+    <color name="text_muted">#757575</color>
+    <string name="app_name">PomodoroApp</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="btn_pausar">Pausar</string>
+    <string name="btn_reanudar">Reanudar</string>
+    <string name="btn_reiniciar">Reiniciar</string>
+    <string name="titulo_app">Temporizador Pomodoro</string>
+    <style name="Base.Theme.PomodoroApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.PomodoroApp" parent="Base.Theme.PomodoroApp"/>
+</resources>

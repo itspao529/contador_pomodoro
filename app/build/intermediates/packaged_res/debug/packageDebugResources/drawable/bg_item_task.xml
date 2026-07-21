@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.google.com/apk/shapes"
+    tools:ignore="NamespaceTypo">
+    <solid android:color="#FFFFFF" /> <!-- O el color que prefieras -->
+    <corners android:radius="8dp" />
+</shape>

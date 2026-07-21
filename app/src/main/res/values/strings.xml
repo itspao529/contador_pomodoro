@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PomodoroApp</string>
+    <string name="titulo_app">Temporizador Pomodoro</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="btn_pausar">Pausar</string>
+    <string name="btn_reanudar">Reanudar</string>
+    <string name="btn_reiniciar">Reiniciar</string>
+</resources>
